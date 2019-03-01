@@ -1,0 +1,196 @@
+@charset "utf-8";
+
+.marginR1{
+    margin-right: 30px;
+}
+.marginR2{
+    margin-right:24px;
+}
+.main{
+    padding-bottom: 100px;
+}
+
+.main .inner .mainTop{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.main .inner .mainTop .news{
+    background: #ffffff;
+    padding: 28px 0 32px;
+}
+.main .inner .mainTop .news .newTop {
+    padding:0 52px 28px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.main .inner .mainTop .news .newTop .qiandao{
+    display: block;
+    font: 24px/52px "微软雅黑";
+    color:#ffffff;
+    background:#ff4401 url("../images/sprite.png") no-repeat 27px -51px;
+    padding-left: 60px;
+    width: 187px;
+}
+.mainTop .newBot{
+    padding-top: 12px;
+    padding-left:52px;
+}
+.mainTop .newBot h4{
+    background:url("../images/sprite.png") no-repeat 0 -98px ;
+    font:bold 16px/37px "微软雅黑";
+    color: #3f413e;
+    text-indent: 41px;
+}
+.mainTop .newBot ul{
+    background: url("../images/newsbg.png") no-repeat 0 0;
+    padding-top: 8px;
+    padding-left: 32px;
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+.mainTop .newBot ul a{
+    display: block;
+    font:14px/28px "微软雅黑";
+    color: #44483a;
+}
+.mainTop .newBot .qq{
+    position: relative;
+    padding:0 13px 0 37px;
+    border: 1px solid #c9c9c9;
+    font:14px/26px "微软雅黑";
+    color: #44483a;
+}
+.mainTop .newBot .qq em{
+    position: absolute;
+    left: -1px;
+    top: -1px;
+    width: 30px;
+    height: 28px;
+    background:url("../images/sprite.png") no-repeat 0 -135px;
+}
+.mainTop .newBot .wb{
+    margin-right: 52px;
+}
+.mainTop .newBot .wb em{
+    background: url("../images/sprite.png") no-repeat 0 -163px;
+}
+
+
+.main .title{
+    border-bottom: 2px solid #f2f2f2;
+
+}
+.main .title h3{
+    position: relative;
+    top:2px;
+    width: 97px;
+    background: url("../images/other.png") no-repeat 0 -105px;
+    padding-top: 4px;
+    border-bottom: 2px solid #ff4304;
+    font:bold 16px/46px "微软雅黑";
+    color: #3f413e;
+    text-indent: 31px;
+}
+.main .title a{
+    font:14px/46px "微软雅黑";
+    color: #959595;
+    padding-top:6px;
+}
+
+
+.recom{
+    width: 770px;
+    height: 870px;
+    background: #fff;
+    padding: 0 25px;
+
+}
+.recomCon{
+    padding-left: 2px;
+
+}
+.recomItems{
+    padding: 25px 0 19px;
+
+}
+.recomItems .pic{
+    border: 1px solid #e3e8e2;
+    margin-bottom: 11px;
+
+}
+.recomItems .pic img{
+    width: 233px;
+    height: 275px;
+
+}
+.recomItems h4{
+    font: 14px/23px "微软雅黑";
+    color:#484848;
+
+}
+.recomItems p{
+    font: bold 14px/30px "微软雅黑";
+    color:#f75814;
+
+}
+.exchange{
+    width: 301px;
+    background: #fff;
+    padding: 0 25px;
+}
+.exchange .showBox{
+    padding: 29px 0 24px;
+}
+.exchange .showBox .img img{
+    border: 1px solid #f0f0f0;
+    width: 88px;
+    height: 104px;
+
+}
+.exchange .showBox .picText{
+    margin-left: 18px;
+    width: 191px;
+}
+.exchange .showBox h4{
+    font:14px/24px "微软雅黑";
+    color: #727272;
+}
+.exchange .showBox p{
+    margin-top: 8px;
+    font:14px/22px "微软雅黑";
+    color: #fd4200;
+}
+.exchange .showBox{
+    border-bottom: 1px solid #f0f0f0;
+}
+.exchange .showBox1{
+    padding-bottom: 41px;
+}
+.mainBot{
+    margin-top: 30px;
+    padding: 0 25px;
+    background:#fff;
+}
+.main .inner .mainBot .money{
+    background: url("../images/titicon2.png") no-repeat 0 14px;
+}
+.mainBot .picBot{
+    padding-top: 25px;
+    width: 367px;
+}
+.mainBot .picBot p{
+    padding: 25px 0 61px;
+    font:bold 16px "微软雅黑";
+    color: #494671;
+}
+.mainBot .picBot p .a1{
+    color: #000000;
+}
+.mainBot .picBot p .a2{
+    color: #fd4200;
+}
+
+
+
+
+
+

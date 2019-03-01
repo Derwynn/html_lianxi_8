@@ -1,0 +1,151 @@
+@charset "utf-8";
+
+/*主要内容上边*/
+.main .mainTop .right{
+    width: 351px;
+    height: 350px;
+    background: #ffffff;
+}
+.main .mainTop .right .SignBox{
+    padding:28px 52px 26px;
+}
+.main .mainTop .right .SignBox .Sign{
+    display: block;
+    font: 24px/52px "微软雅黑";
+    color:#ffffff;
+    background:#ff4401 url("../images/sprite.png") no-repeat 27px -51px;
+    padding-left: 60px;
+    width: 187px;
+}
+.mainTop .right ul{
+    padding-top: 5px;
+    margin-top: 5px;
+    background: url("../images/task_coin.png") no-repeat 56px 0;
+
+}
+.mainTop .right ul li{
+    padding-bottom: 16px;
+    margin-left:113px;
+}
+.mainTop .right ul li span{
+    color: #ff4700;
+}
+.mainTop .right ul li a{
+    display: inline-block;
+    letter-spacing: 5px;
+    text-align: center;
+    background: #f1f1f1;
+    width: 182px;
+    height: 34px;
+    font:18px/34px "微软雅黑";
+    color: #464646;
+}
+
+/*积分任务*/
+
+.mainBoot{
+    width: 820px;
+    background: #fff;
+}
+.taskBox{
+    padding: 25px 30px;
+}
+.task .taskBox li{
+    background: #fcffff;
+    border: 1px solid #e8e8e8;
+}
+.task .taskBox li{
+    padding: 18px 26px;
+    border-top: 2px solid #ff4300;
+}
+.task .taskBox li a{
+    font:bold 18px "微软雅黑";
+    color: #f84600;
+}
+
+/*积分任务里的图片*/
+
+.graphicBox{
+    margin-bottom: 80px;
+    padding-left: 30px;
+}
+.graphicBox .graphic{
+    margin-right: 25px;
+}
+.graphicBox .graphic h4{
+    font:bold 16px/32px "微软雅黑";
+    color: #514654;
+}
+.graphicBox .graphic h4 a{
+    padding-left: 40px;
+    font:bold 14px "微软雅黑";
+    color: #ff4400;
+}
+.graphicBox .graphic p{
+    padding-left: 20px;
+    background: url("../images/shijian_03.png")no-repeat 0 6px;
+    padding-bottom: 25px;
+    font:14px/24px "微软雅黑";
+    color: #944b45;
+}
+.graphicBox .graphic p span{
+    font: bold 14px/24px "微软雅黑";
+    color: #944b45;
+}
+
+
+/*翻页*/
+.bookBox {
+    padding: 7px 0 26px 100px;
+}
+.bookBox ul li{
+    float:left;
+}
+.bookBox ul li a{
+    display: inline-block;
+    font:bold 14px/23px "微软雅黑";
+    color: #424437;
+    padding: 11px 19px;
+    border: 1px solid #ececec;
+}
+.bookBox ul li .a_1{
+    border-left: none;
+    color: #fffff1;
+    background: #ff4401;
+}
+.bookBox ul .li_1{
+    padding-top:18px ;
+}
+.bookBox ul .li_2{
+    padding: 20px 0 0 14px;
+}
+.bookBox p{
+    padding: 8px 0 0 34px;
+    font:14px "微软雅黑";
+    color: #494448;
+    float:left
+}
+.bookBox p input{
+    border: 1px solid #ececec;
+    width: 32px;
+    height: 32px;
+}
+.bookBox .confirm{
+    margin-left: 22px;
+    font:18px "微软雅黑";
+    color: #ffffff;
+    background: #ff4401;
+    width: 94px;
+    height: 48px;
+    float:left;
+}
+.main .todayBox .jifenbang{
+
+}
+.main .todayBox .jifenbang h4{
+    background: url("../images/");
+    font:bold 16px "微软雅黑";
+    color: #415147;
+    width: 301px;
+    height: 52px;
+}

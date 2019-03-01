@@ -1,0 +1,141 @@
+@charset "utf-8";
+
+.marginR2{
+    margin-right: 27px;
+}
+.main{
+    padding:30px 0 80px;
+}
+.main .inner{
+    background: #ffffff;
+}
+.bigBox{
+    width: 1140px;
+    margin: 0 auto;
+}
+.navClass .navBox{
+    padding-top: 26px;
+}
+.navClass .navBox .goods{
+    padding: 8px 41px;
+    border-top: 2px solid #ff4300;
+}
+.navClass .navBox .goods a{
+    font:bold 18px/34px "微软雅黑";
+    color: #f84600;
+}
+
+.navClass .navBox li:hover{
+    border-top-color:#fd4500;
+
+}
+.navClass .navBox li:hover a{
+    font:bold 18px/34px "微软雅黑";
+    color: #f84600;
+}
+.navClass .navBox li{
+    padding: 8px 45px;
+    border: 1px solid #e8e8e8;
+    border-top: 2px solid #e8e8e8 ;
+    float: left;
+}
+.navClass .navBox  li a{
+    font: 18px/34px "微软雅黑";
+    color: #444444;
+}
+
+.selectBox{
+    background: #fafafa;
+    border: 1px solid #e7e7e7;
+    height: 45px;
+}
+.selectBox .input{
+    padding: 11px 15px ;
+    font:14px/24px "微软雅黑";
+    color:#455248;
+}
+.selectBox .input1{
+    margin-right: 9px;
+}
+.selectBox .input img{
+    padding: 6px 25px 0 0;
+}
+.selectBox select{
+    -webkit-appearance:none;
+    margin: 8px 14px;
+    padding-left: 9px;
+    border: 1px solid #e9e9e9;
+    font:14px "微软雅黑";
+    color: #434343;
+    background:#ffffff url("../images/xialajiantou_13.jpg") no-repeat 143px center ;
+    width: 171px;
+    height: 28px;
+}
+
+.goodsBox{
+    padding-top: 25px;
+}
+.goodsBox .productlistList{
+    height: 378px;
+    width: 206px;
+}
+.goodsBox .productlistList img{
+    width: 206px;
+    height: 243px;
+    border: 1px solid #e9e9e9;
+}
+.goodsBox .productlistList p{
+    padding-top:11px;
+    font: 14px/24px "微软雅黑";
+    color: #4b4b4b;
+}
+.goodsBox .productlistList a{
+    display: block;
+    font:bold 14px/24px "微软雅黑";
+    padding-top: 9px;
+   color: #f65a0d;
+}
+.bookBox {
+    padding: 7px 0 26px 324px;
+}
+.bookBox ul li{
+    float:left;
+}
+.bookBox ul li a{
+    display: inline-block;
+    font:bold 14px/23px "微软雅黑";
+    color: #424437;
+    padding: 11px 19px;
+    border: 1px solid #ececec;
+}
+.bookBox ul li .a_1{
+    border-left: none;
+    color: #fffff1;
+    background: #ff4401;
+}
+.bookBox ul .li_1{
+    padding-top:18px ;
+}
+.bookBox ul .li_2{
+    padding: 20px 0 0 14px;
+}
+.bookBox p{
+    padding: 8px 0 0 34px;
+    font:14px "微软雅黑";
+    color: #494448;
+    float:left
+}
+.bookBox p input{
+    border: 1px solid #ececec;
+    width: 32px;
+    height: 32px;
+}
+.bookBox .confirm{
+    margin-left: 22px;
+    font:18px "微软雅黑";
+    color: #ffffff;
+    background: #ff4401;
+    width: 94px;
+    height: 48px;
+    float:left;
+}
